@@ -1,1 +1,2 @@
-My first readme
+Glorified and doing hard things
+
